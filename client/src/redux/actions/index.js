@@ -1,0 +1,7 @@
+export const PROMISE = "PROMISE"
+export const PENDING = 'PENDING'
+export const RESOLVED = 'RESOLVED'
+export const REJECTED = 'REJECTED'
+export const SET_SCREEN_WIDTH = 'SET_SCREEN_WIDTH'
+export const SET_AUTHENTICATED_USER_DATA = 'SET_AUTHENTICATED_USER_DATA'
+export const LOG_OUT = 'LOG_OUT' 
